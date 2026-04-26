@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 The Mission
-> I build high-performance web ecosystems and maintain a private cloud infrastructure. Deeply invested in **TUI development**, **hardware modding**, and **declarative system management**.
+> I am a **Full-Stack Developer with 6+ years of experience**, specializing in building high-performance web ecosystems with a primary focus on **TypeScript** and **PHP**. I maintain a private cloud infrastructure and am deeply invested in **TUI development**, **hardware modding**, and **declarative system management**.
 
 - 🔭 **Current Focus:** Refinement of [shortcuts-tui](https://github.com/williamtcastro/shortcuts-tui) and [spaceship-sunset](https://github.com/williamtcastro/spaceship-sunset).
 - 🏠 **Home Lab:** Orchestrating services with **Dokploy**, **Docker**, and **Nix**.
@@ -57,7 +57,3 @@
 <a href="https://instagram.com/williamtcastro"><img src="https://img.shields.io/badge/-Instagram-ff9e64?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://ko-fi.com/williamtcastro"><img src="https://img.shields.io/badge/-Support-ff9e64?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </p>
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=williamtcastro&label=PROFILE+VIEWS&color=ff9e64&style=flat-square" alt="Views" />
-</div>
